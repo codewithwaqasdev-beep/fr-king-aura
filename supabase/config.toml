@@ -1,0 +1,6 @@
+project_id = "vtrenhqgpecotyxuchmu"
+
+[api]
+enabled = true
+schemas = ["public", "graphql_public"]
+extra_search_path = ["public", "extensions"]
